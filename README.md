@@ -12,12 +12,12 @@
   "code": 0,
   "message": "request is ok",
   "data": {
-    "new_user": 1,
-    "server_time": 1639924967,
-    "device_id": 7043423963380730000,
-    "install_id": 7043424024916167000,
-    "device_id_str": "7043423963380729349",
-    "install_id_str": "7043424024916166406"
+    "server_time": 1639926503,
+    "device_id": 7043430346466362885,
+    "install_id": 7043430597058955013,
+    "device_id_str": "7043430346466362885",
+    "install_id_str": "7043430597058955013",
+    "new_user": 1
   }
 }
 ```
